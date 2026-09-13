@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="112" viewBox="0 0 640 112" role="img" aria-labelledby="title desc">
+  <title id="title">Download Baldur's Gate 3 Trainer for Windows</title>
+  <desc id="desc">Download button that opens the configured external release link.</desc>
+  <rect width="640" height="112" rx="22" fill="#D19B52"/>
+  <path d="M68 30 V70 M48 54 L68 74 L88 54 M45 84 H91" fill="none" stroke="#171009" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="118" y="51" fill="#171009" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" font-weight="700" letter-spacing="3">DOWNLOAD</text>
+  <text x="118" y="82" fill="#171009" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="27" font-weight="800">FOR WINDOWS</text>
+  <text x="594" y="67" text-anchor="end" fill="#171009" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20" font-weight="700">PC ↗</text>
+</svg>
